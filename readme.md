@@ -29,7 +29,7 @@
 * Make comments on Posts, Images
 * Like Posts, Images
 * Follow new events with notifications
-* Add hobbies
+* Add your Club Region 
 * Become a member of a hobby group automatically and interact with other people
 * Hide your profile by sharing your location. Let only the people around you to have access to communicate with you
 * Find people around you at the same location, having same hobby and become a member of an automatically created hobby group
