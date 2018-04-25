@@ -1,0 +1,30 @@
+{
+    "name": "hannoma/larapolls",
+    "description": "Create, view and manage polls in Laravel Framework",
+    "type": "package",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Hannes Drescher",
+            "email": "hannescher9@gmail.com"
+        }
+    ],
+    "extra": {
+      "laravel": {
+        "providers": [
+          "Hannoma\\Larapolls\\LarapollsServiceProvider"
+        ],
+        "aliases": {
+        }
+      }
+    },
+    "require": {
+        "spatie/laravel-permission": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hannoma\\Larapolls\\": "src"
+        }
+    }
+}
