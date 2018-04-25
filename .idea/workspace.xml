@@ -31,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -40,6 +40,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,25 +82,6 @@
             <state relative-caret-position="113">
               <caret line="86" column="28" lean-forward="false" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="28" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017_05_20_134119_create_posts_tables.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2017_05_20_134119_create_posts_tables.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-              <folding>
-                <marker date="1524578662866" expanded="true" signature="273:2052" ph="{...}" />
-                <marker date="1524578662866" expanded="true" signature="753:1262" ph="..." />
-                <marker date="1524578662866" expanded="true" signature="799:1261" ph="..." />
-                <marker date="1524578662866" expanded="true" signature="1289:1569" ph="..." />
-                <marker date="1524578662866" expanded="true" signature="1333:1568" ph="..." />
-                <marker date="1524578662866" expanded="true" signature="1596:2044" ph="..." />
-                <marker date="1524578662866" expanded="true" signature="1639:2043" ph="..." />
-                <marker date="1524578662866" expanded="true" signature="2061:2125" ph=" Reverse the migrations. ..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -321,12 +312,12 @@
       <updated>1524065283098</updated>
       <workItem from="1524065285297" duration="14687000" />
       <workItem from="1524557460580" duration="16413000" />
-      <workItem from="1524583372392" duration="6360000" />
+      <workItem from="1524583372392" duration="7067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37460000" />
+    <option name="totallyTimeSpent" value="38167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -363,14 +354,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/transactional-events.php" />
     <entry file="file://$PROJECT_DIR$/database/seeds/GroupeTableSeeder.php" />
     <entry file="file://$PROJECT_DIR$/vendor/devdojo/chatter/src/Views/discussion.blade.php">
@@ -750,6 +733,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
